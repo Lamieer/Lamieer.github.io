@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Lamieer.github.io/"/>
-  <updated>2019-10-17T05:26:21.446Z</updated>
+  <updated>2019-10-17T06:56:27.608Z</updated>
   <id>http://Lamieer.github.io/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://Lamieer.github.io/2019/10/08/%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Ehexo%EF%BC%8Cgit%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://Lamieer.github.io/2019/10/08/搭建基于hexo，git个人博客/</id>
     <published>2019-10-08T09:55:19.213Z</published>
-    <updated>2019-10-17T05:26:21.446Z</updated>
+    <updated>2019-10-17T06:56:27.608Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。这个是我搭建的时候参考的链接：https-blog-csdn-net-sinat-37781304-article-details-82729029"><a href="#刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。这个是我搭建的时候参考的链接：https-blog-csdn-net-sinat-37781304-article-details-82729029" class="headerlink" title="刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。这个是我搭建的时候参考的链接：https://blog.csdn.net/sinat_37781304/article/details/82729029"></a>刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。这个是我搭建的时候参考的链接：<a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">https://blog.csdn.net/sinat_37781304/article/details/82729029</a></h2><h2 id="希望对大家有帮助"><a href="#希望对大家有帮助" class="headerlink" title="希望对大家有帮助"></a>希望对大家有帮助</h2>]]></content>
+    <content type="html"><![CDATA[<p>  刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。以下是我搭建的时候参考内容：</p><ul><li>hexo史上最全搭建教程 <a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">https://blog.csdn.net/sinat_37781304/article/details/82729029</a><br><img src="/images/1/1.jpg" alt="图1"></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。这个是我搭建的时候参考的链接：https-blog-csdn-net-sinat-37781304-article-details-82729029&quot;&gt;&lt;a href=&quot;#刚刚搭建的测试版博客，虽然简单，但是过程也
+        &lt;p&gt;  刚刚搭建的测试版博客，虽然简单，但是过程也是坎坷。以下是我搭建的时候参考内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hexo史上最全搭建教程 &lt;a href=&quot;https://blog.csdn.net/sinat_37781304/article/details/8272902
       
     
     </summary>
